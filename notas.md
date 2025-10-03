@@ -7,3 +7,4 @@ Tareas pendientes:
 	- Limpiar
 	- Estudiar
 
+- Inglés

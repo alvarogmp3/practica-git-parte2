@@ -8,3 +8,4 @@ Tareas pendientes:
 	- Estudiar
 
 - Inglés
+- Biología
